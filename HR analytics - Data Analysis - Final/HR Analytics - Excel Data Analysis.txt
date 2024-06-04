@@ -1,0 +1,41 @@
+HR Analytics - Excel Data Analysis
+
+--------------------------------------------------------
+
+Problem statement: Management wants to understand how to reduce employee turnover 
+
+Goal: HR Wants to create an employee retention program
+
+Task: Analysis, hypothesis and data story on reasons for churn.
+
+Data: < Less than 15,000 employee records.
+
+Questions from Management:
+1. What is the main cause of turnover?
+2. Is there something surprising in the data?
+3. What segment should we focus on?
+4. Which department has the highest turnover?
+5. Do we need to increase X or decrease X?
+6. Where should we put our pilot program?
+
+---------------------------------------------------------
+INSIGHT DEVELOPMENT
+
+How to develop insights? (What.How.When.Where)
+
+1. What's the goals for the business?
+Make money/reduce employee churn/limit recruitment cost
+
+2. What is the metric of success or failure?
+Employee retention churn
+
+3. What are the trends? (positive or negative)
+Departments with high and low churn
+
+4. What influences our metrics and trends?
+Other metrics affect on churn
+
+5. How can we fix the trends?
+Lowering/increasing X may lower or increase
+
+----------------------------------------------------------
